@@ -83,7 +83,8 @@ nav{
 
 .footer{
     background-color: #0D0D0D;
-    width: 100%;
+    width: 99%;
+    margin: 0 auto;
     height: 18vh;
     margin-top: 10px;
     border-radius: 10px 10px 0px 0px;
@@ -101,6 +102,7 @@ nav{
     display: flex;
     justify-content: space-between;
     width: 40%;
+    margin-left: 10px;
 }
 .footer-title{
     background-color: transparent;
@@ -115,6 +117,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 10px;
 }
 .left-icon{
     background-color: transparent;
