@@ -7,11 +7,11 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap'); 
 
-/* body{
+body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-} */
+}
 
 nav{
     display: flex;
@@ -22,6 +22,7 @@ nav{
 .logo{
     font-size: 30px;
     font-weight: 400;
+    margin-left: 50px;
 }
 .nav-container{
     display: flex;
@@ -45,7 +46,6 @@ nav{
     align-items: center;
     width: 100%;
     height: 70vh;
-    background-color: yellowgreen;
 }
 /* ---------------------- */
 
@@ -82,9 +82,11 @@ nav{
 /* ---------------------- */
 
 .footer{
-    background-color: tomato;
+    background-color: #0D0D0D;
     width: 100%;
     height: 18vh;
+    margin-top: 10px;
+    border-radius: 10px 10px 0px 0px;
 }
 .footer-container{
     background-color: transparent;
@@ -135,7 +137,7 @@ nav{
 }
 .invest {
     background-color: transparent;
-    width: 120px;
+    width: 90px;
 }
 
 .right-icon{
@@ -143,5 +145,5 @@ nav{
     width: 60%;
     display: flex;
     justify-content: space-between;
-    margin-right: 40px;
+    margin-right: 60px;
 }
