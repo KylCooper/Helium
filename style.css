@@ -27,7 +27,7 @@ nav{
 .nav-container{
     display: flex;
     justify-content: space-around;
-    width: 60%;
+    width: 50%;
 }
 .nav-link{
     font-size: 16px;
@@ -57,7 +57,7 @@ nav{
     justify-content: space-around;
 }
 .homepage-title{
-    font-size: 85px;
+    font-size: 70px;
     font-weight: 500;
 }
 .homepage-text{
@@ -65,9 +65,9 @@ nav{
     font-size: 35px;
 }
 .homepage-subtext{
-    font-size: 14px;
+    font-size: 11px;
     font-weight: 400;
-    line-height: 18px;
+    line-height: 16px;
 }
 
 /* ---------------------- */
@@ -75,8 +75,9 @@ nav{
     width: 50%;
 }
 .homepage-img{
-    width: 760px;
-    height: 670px;
+    width: 75%;
+    height: 50%;
+    margin-left: 160px;
 }
 
 /* ---------------------- */
@@ -128,14 +129,14 @@ nav{
     justify-content: space-around;
 }
 .btn{
-    width: 150px;
-    height: 35px;
+    width: 140px;
+    height: 28px;
     background-color: #474DFF;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
 }
 .invest {
